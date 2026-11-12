@@ -1,0 +1,12 @@
+{
+  "raw_directories": [
+    "raw"
+  ],
+  "output_directory": "results",
+  "cache_directory": "cache",
+  "boundary_file": "boundaries/china_boundary_demo.geojson",
+  "start_year": 1960,
+  "end_year": 2024,
+  "alpha": 0.05,
+  "hac_lags": null
+}
