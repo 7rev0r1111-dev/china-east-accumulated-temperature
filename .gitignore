@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.py[cod]
+raw/
+cache/
+results/
+logs/
+*.nc
+*.nc.gz
+*.dat.gz
+*.filepart
+*.part
+local_config.json
+boundaries/*.geojson
